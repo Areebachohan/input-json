@@ -1,0 +1,60 @@
+.design {
+ background-color: dimgray;
+   color: aliceblue;
+   text-align: center;
+}
+#name{
+   text-align: center;
+   background-color: greenyellow;
+}
+
+#bio{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+#followers{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+#company{
+    text-align: center;
+    background-color: greenyellow;
+}
+
+#emails{
+    text-align: center;
+    background-color: greenyellow;
+}
+  
+.container{
+    margin-left: 100px;
+    margin-right: 100px;
+    background-color: darkblue;
+}
+ input[type="text"]{
+width: 400px;
+
+margin-bottom: 10px;
+background-color:white;
+color:black;
+font-size: 25px;
+text-align: center;
+margin-left: 300px;
+ }
+
+ input[type="button"]{
+    
+    width: 200px;
+    margin-left: 35px;
+    font-size: 25px;
+    text-align: center;
+   
+ }
+
+ #Profile {
+    width: 200px;
+    margin-left: 550px;
+    margin-top: 10px;
+ }
